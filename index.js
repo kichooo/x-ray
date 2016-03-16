@@ -33,7 +33,7 @@ var error = require('debug')('x-ray:error');
  * Crawler methods
  */
 
-var methods = [ 'concurrency', 'throttle', 'timeout', 'driver', 'delay', 'limit'];
+var methods = [ 'concurrency', 'throttle', 'timeout', 'driver', 'delay', 'limit', 'ua'];
 
 /**
  * Export
