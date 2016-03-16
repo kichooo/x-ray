@@ -1,6 +1,6 @@
 {
   "name": "working-x-ray",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "structure any website",
   "keywords": [
     "scraper",
@@ -13,7 +13,7 @@
   "author": "Matthew Mueller <matt@lapwinglabs.cm>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lapwinglabs/x-ray.git"
+    "url": "git://github.com/kichooo/x-ray.git"
   },
   "main": "index.js",
   "dependencies": {
